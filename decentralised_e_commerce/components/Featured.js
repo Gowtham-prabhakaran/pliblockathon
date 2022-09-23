@@ -33,23 +33,23 @@ const Featured = () => {
         <div className={styles.card2}>
           <div className={styles.cardCross}>
           <div className='object-cover'>
-              <img src='https://www.apple.com/newsroom/images/product/iphone/standard/Apple-iPhone-14-Pro-iPhone-14-Pro-Max-deep-purple-220907_inline.jpg.large.jpg' />
+              <img src='https://m.media-amazon.com/images/I/71qZERyxy6L._SX679_.jpg' />
             </div>
-          </div> <p style={{color: "white", textAlign: 'right' }}>hinfyddss</p>
+          </div> <p style={{color: "white", textAlign: 'right' }}>GALAXY S22</p>
         </div>
         <div className={styles.card3}>
           <div className={styles.cardCross}>
             <div className='object-cover'>
-              <img src='https://www.apple.com/newsroom/images/product/iphone/standard/Apple-iPhone-14-Pro-iPhone-14-Pro-Max-deep-purple-220907_inline.jpg.large.jpg' />
+              <img src='https://www.zdnet.com/a/img/resize/f91ccbcfc44ab15abd4e99a7d83ca06bb9d273d7/2020/11/16/37e33024-2892-4bb7-9d21-6ac6f7544def/apple-macbook-pro-m1-2020-5.jpg?auto=webp&fit=crop&height=900&width=1200' />
             </div>
-          </div><p style={{color: "white", textAlign: 'right' }}>hinfyddss</p>
+          </div><p style={{color: "white", textAlign: 'right' }}>MAC BOOK</p>
         </div>
         <div className={styles.card4}>
           <div className={styles.cardCross}>
           <div className='object-cover'>
-              <img src='https://www.apple.com/newsroom/images/product/iphone/standard/Apple-iPhone-14-Pro-iPhone-14-Pro-Max-deep-purple-220907_inline.jpg.large.jpg' />
+              <img src='https://img1.gadgetsnow.com/gd/images/products/additional/large/G386419_View_1/computer-laptop/laptops/hp-victus-15-fa0165tx-intel-core-i7-12650h-15-6-inches-gaming-laptop-8gb-512gb-ssd-windows-11-performance-blue-2-37-kg-.jpg' />
             </div>
-          </div><p style={{color: "white", textAlign: 'right' }}>hinfyddss</p>
+          </div><p style={{color: "white", textAlign: 'right' }}>HP VICTUS 15</p>
         </div>
       </div>
     </div>
